@@ -1,8 +1,9 @@
-﻿[**Wellcome to Coolab01**]() 	 
+﻿[**Wellcome to Coolab01**](#hi-coolab01-here) 	 
 
-[Home](#1)
+[Home](#)
 
-[Profile]()
+[Profile](#)
 
-[Project]()
+[Project](#)
+
 # Hi, Coolab01 here
