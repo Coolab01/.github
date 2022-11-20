@@ -3,7 +3,7 @@
 
 <div>
 
-![GitHub](../../profile/aset/img/GitHub-Logo-Light.png)
+![GitHub](profile/aset/img/GitHub-Logo-Light.png)
 
 </div>
 
