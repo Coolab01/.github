@@ -1,12 +1,9 @@
-﻿---
-title : profile Coolab01
----
-
+﻿
 <nav>
 
 <div>
 
-![GitHub](aset/img/GitHub-Mark-Light.png)
+![GitHub](../profile/aset/img/GitHub-Logo-Light.png)
 
 </div>
 
