@@ -1,12 +1,12 @@
 ﻿---
-title: profile Coolab01
+title : profile Coolab01
 ---
 
 <nav>
 
 <div>
 
-![github](aset/img/GitHub-Mark-Light.png)
+![GitHub](aset/img/GitHub-Mark-Light.png)
 
 </div>
 
