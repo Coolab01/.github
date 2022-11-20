@@ -1,7 +1,7 @@
 ﻿
 <nav>
 
-<div>
+<div style="width: 100px;">
 
 ![GitHub](profile/aset/img/GitHub-Logo-Light.png)
 
